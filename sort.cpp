@@ -14,4 +14,6 @@ int main() {
     cout << "message 2";
 
     cout << "message 3";
+
+    cout << "message 4";
 }
