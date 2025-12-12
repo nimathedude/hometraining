@@ -10,4 +10,6 @@ int main() {
     for(int x : a) cout << x << " ";
 
     cout << "there is your sorted code !! ";
+
+    cout << "message 2";
 }
