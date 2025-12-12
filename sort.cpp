@@ -8,4 +8,6 @@ int main() {
     for(int &x : a) cin >> x;
     sort(a.begin(), a.end());
     for(int x : a) cout << x << " ";
+
+    cout << "there is your sorted code !! ";
 }
